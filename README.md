@@ -35,10 +35,7 @@ $ catkin_make
 Clone the following repositories to catkin_ws/src:
 ```sh
 $ cd ~/catkin_ws/src
-$ git clone https://github.com/ros-perception/slam_gmapping.git
-$ git clone https://github.com/turtlebot/turtlebot.git
-$ git clone https://github.com/turtlebot/turtlebot_interactions.git
-$ git clone https://github.com/turtlebot/turtlebot_simulator.git
+$ https://github.com/nigamishan/Bio_Facility_Automation.git
 ```
 Install package dependencies with `rosdep install [package-name]`
 
